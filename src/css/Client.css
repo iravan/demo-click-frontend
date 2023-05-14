@@ -1,0 +1,16 @@
+.Btn {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  color: white;
+  border-width: 0px;
+}
+.Btn:active {
+  opacity: 80%;
+}
+.OrangeBtn {
+  background-color: orange;
+}
+.BlueBtn {
+  background-color: blue;
+}

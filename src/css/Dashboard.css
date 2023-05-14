@@ -1,0 +1,20 @@
+.BarChart {
+  flex-direction: column;
+  width: 300pt;
+}
+.BarItem {
+  width: 500pt;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.BarLabel {
+  color: white;
+}
+.BarOrange {
+  background-color: orange;
+}
+.BarBlue {
+  background-color: blue;
+}

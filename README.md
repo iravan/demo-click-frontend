@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Setting Remote Server 
+set IS_REMOTE_SERVER=true to use remote server
+set IS_REMOTE_SERVER=false to use local server
+
 ## Available Scripts
 
 In the project directory, you can run:

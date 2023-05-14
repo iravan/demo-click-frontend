@@ -1,0 +1,17 @@
+.Nav {
+  padding: 10pt;
+}
+.NavBtn {
+  margin-top: 100px;
+  color: black;
+  margin: 10px;
+  padding: 10pt;
+  text-decoration: none;
+  background-color: white;
+  border-radius: 10pt;
+  border-width: 1pt;
+}
+.active {
+  color: white;
+  background-color: blue;
+}
