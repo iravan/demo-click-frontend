@@ -26,7 +26,7 @@ const Dashboard = () => {
   useEffect(() => {
     function onConnect() {
       setIsConnected(true);
-      socket.emit("stat", null, onReceivedData);
+      socket.emit("stat", "reset", onReceivedData);
     }
 
     function onDisconnect() {
